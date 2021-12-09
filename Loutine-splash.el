@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2021  Loutine
 
-;; Author: Loutine <loutine@loutine-pc>
+;; Author: Loutine <uhuru-loutine@outlook.com>
 ;; Keywords: faces
 
 ;; This program is free software; you can redistribute it and/or modify
